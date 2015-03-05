@@ -2,10 +2,10 @@
 
 Add GitHub authentication to [Let's Chat](http://sdelements.github.io/lets-chat/).
 
-### Install
+### Install (NPM module not yet published)
 
 ```
-npm install lets-chat-github
+npm install MitchK/lets-chat-github
 ```
 
 ### Configure
