@@ -5,7 +5,7 @@ Add GitHub authentication to [Let's Chat](http://sdelements.github.io/lets-chat/
 ### Install
 
 ```
-npm install lets-chat-ldap
+npm install lets-chat-github
 ```
 
 ### Configure
