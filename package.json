@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/i841712/lets-chat-github",
   "dependencies": {
+    "passport-github": "^0.1.5"
   },
   "peerDependencies": {
     "lodash": "^3.1.0",
