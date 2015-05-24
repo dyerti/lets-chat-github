@@ -5,10 +5,19 @@ Add GitHub authentication to [Let's Chat](http://sdelements.github.io/lets-chat/
 ### Install (NPM module not yet published)
 
 ```
-npm install MitchK/lets-chat-github
+npm install dyerti/lets-chat-github
 ```
 
 ### Configure
 
 ###### Example 
-TODO
+
+```yml
+auth:
+  providers: [gitlab]
+
+  github:
+    clientID: '<Generate this in GitHub>'
+    clientSecret: '<Generate this in GitHub>'
+    callbackURL: 'https://chat.domain.example/account/github/callback'
+```
